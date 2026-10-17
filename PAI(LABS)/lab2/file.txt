@@ -1,0 +1,5 @@
+Molvi,300,24AI61,0.75
+Bodybuilder,05,24AI18,4
+Adeeb,20,24AI49,0.01
+Ajab,34,24AI09,3.5
+Azizullah,56,24AI04,3.5

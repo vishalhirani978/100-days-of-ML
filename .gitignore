@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+ML_PROJECTS/Movie_recommender_System/similarity.pkl
+hackthon/hackathon6.ipynb
